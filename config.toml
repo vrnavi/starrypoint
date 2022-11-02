@@ -1,7 +1,6 @@
 baseurl = "https://starrypoint.me/"
 languageCode = "en_US"
 title = "Starry Point, ME"
-
 theme = "hugo-tikva"
 
 # Language setting of the site, for language configuration see
@@ -22,9 +21,11 @@ paginate = 10
 
 # Generic parameters
 [params]
+    title = "Starry Point, ME"
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     favicon = 'img/favicon.ico' # Add favicon, default empty
     subtitle = ""
+    opengraph = true
 
     dateFormat = "2006/01/02" # Format dates with Go's time formatting
     showDate = true # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
@@ -56,7 +57,7 @@ paginate = 10
 # The content will be included in the head of the site as: <meta name="_key_" content="_value_">.
 
 [params.meta]
-    "og:description" = "Town of Starry Point, ME."
+    theme-color = "#000100"
     "og:author" = "Lapis Lazuli"    
 
 # Theme configuration

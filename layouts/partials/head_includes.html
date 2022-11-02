@@ -12,3 +12,5 @@ This can be added to your website with:
  <link href="{{ .Site.BaseURL }}css/site.css" rel="stylesheet">
 
 -->
+{{if site.Params.opengraph}}{{template "_internal/opengraph.html" .}}{{end}}
+ {{if site.Params.twittercards}}{{template "_internal/twitter_cards.html" .}}{{end}}
