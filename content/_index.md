@@ -1,5 +1,5 @@
 ---
-date: 2018-11-04T21:52:00+01:00
+date: 0002-10-31
 title: Home
 description: "The homepage for the town of Starry Point, ME."
 ---

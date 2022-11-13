@@ -98,7 +98,7 @@ paginate = 10
     overlayDistanceBetween = '0' # Distance between title and subtitle 
     overlayBackgroundColor = '#000000'
     overlayTransparency = '70' # default 70%, allowed values from 0 - 100 (without % sign!). This option enables a transparent background of title and subtitle. This is useful if the "titleOnImage" option is true, so the title is placed as overlay above the image. If this option is set to 0 or an empty value, the transparency color setting will be disabled. 
-    moveTitle = false # If title is placed as overlay: Move title above the header image on small smartphone displays, default false
+    moveTitle = true # If title is placed as overlay: Move title above the header image on small smartphone displays, default false
 
 
 # Footer configuration
