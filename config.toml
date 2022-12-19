@@ -1,6 +1,6 @@
 baseurl = "https://starrypoint.me/"
 languageCode = "en_US"
-title = "Starry Point, ME"
+title = "Starry Point"
 theme = "hugo-tikva"
 
 # Language setting of the site, for language configuration see
@@ -21,10 +21,10 @@ paginate = 10
 
 # Generic parameters
 [params]
-    title = "Starry Point, ME"
+    title = "Starry Point"
     appendSiteTitle = true # Append site title to title tag on every page. Default false
     favicon = 'img/favicon.ico' # Add favicon, default empty
-    subtitle = ""
+    subtitle = "The Town Between Borders"
     opengraph = true
 
     dateFormat = "2006/01/02" # Format dates with Go's time formatting
