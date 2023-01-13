@@ -151,7 +151,7 @@ paginate = 10
     headerSubtitle = 'Exo' # Font settings for subtitle
     headerSubtitleGoogleFont = true # If the font in the above variable is a Google font, set this option to true. 
     headerSubtitleVariant = '600' # See above
-    headerSubtitleSize = '30px' # See above
+    headerSubtitleSize = '25px' # See above
 
     #navbar = 'Lucida, Verdana' # font settings for navigation bar
     navbarGoogleFont = false # If the font in the above variable is a Google font, set this option to true.  
