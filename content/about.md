@@ -14,17 +14,3 @@ Two years later, in 0002, the town was rediscovered. With the advent of the ÀË
 Some physical buildings remain, such as the Starry Point Lighthouse, the Tunnelvision Arcade, and several homes.
 
 Please do not attempt to visit its physical location. The town bears no resemblance to any towns or cities that may be in its spot in other dimensions and/or worlds.
-
-# Contact
-
-To contact the Town Manager, any of the following social media accounts can be used:
-
-**Discord:** ###
-
-**Fediverse:** ###
-
-**Innernet Mail:** `/starrypoint/~lazuli/`
-
-**Outernet Mail:** `lapis`at`starrypoint.me`
-
-**Twitter:** ###

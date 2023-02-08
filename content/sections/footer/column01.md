@@ -1,4 +1,4 @@
 ---
 ---
 
-© 0002 Community of Starry Point, Maine
+© 0003 Community of Starry Point, Maine
