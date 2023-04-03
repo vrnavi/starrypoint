@@ -13,6 +13,6 @@ To contact the Town Manager, any of the following social media accounts can be u
 
 **Innernet Mail:** `/starrypoint/~lapis/`
 
-**Outernet Mail:** `lapis`at`starrypoint.me`
+**Outernet Mail:** `mailbox`at`starrypoint.me`
 
 For all other inquiries, please refer to the Starry Point Staff [Directory](https://self.starrypoint.me).
