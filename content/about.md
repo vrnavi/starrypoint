@@ -9,7 +9,7 @@ draft: false
 
 Starry Point was a town on the easternmost tip of the United States, in Maine. However, the town was abandoned in 2020, with all residents fleeing to larger cities.
 
-Two years later in 0002, the town was rediscovered, and subsequently uploaded to the internet. Some physical buildings remain standing, such as the Starry Point Lighthouse, Northstar Public Library, the Tunnelvision Arcade, and several homes. Three residents now occupy its current form.
+Two years later in 0002, the town was rediscovered, and subsequently uploaded to the internet. Some physical buildings remain standing, such as the Starry Point Lighthouse, Polaris Public Library, the Tunnelvision Arcade, and several homes. Three residents now occupy its current form.
 
 Please do not attempt to visit its physical location. The town bears no resemblance to any towns or cities that may be in its spot in other dimensions and/or worlds.
 
