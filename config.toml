@@ -157,14 +157,14 @@ paginate = 10
     url = "/posts/"
     weight = 20
   [[menu.main]]
+    identifier = "library"
+    name = "Library"
+    url = "https://library.starrypoint.me"
+    weight = 30
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 30
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
     weight = 40
 [taxonomies]
 category = "categories"
