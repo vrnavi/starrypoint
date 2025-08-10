@@ -163,10 +163,15 @@ pagerSize = 10
     url = "https://library.starrypoint.me"
     weight = 30
   [[menu.main]]
+    identifier = "visiting"
+    name = "Visiting"
+    url = "https://discord.gg/QXMveQZeef"
+    weight = 40
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 40
+    weight = 50
 [taxonomies]
 category = "categories"
 tag = "tags"
